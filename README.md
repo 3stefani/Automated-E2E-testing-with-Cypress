@@ -3,11 +3,12 @@ This repository contains an automated End-to-End (E2E) testing project for Zero 
 
 ### Features
 
--** Testing Framework:** Cypress for efficient E2E testing.
-- **Programming Language: **JavaScript.
+- **Testing Framework:** Cypress for efficient E2E testing.
+- **Programming Language:** JavaScript.
 - **Tested Application:** Zero Bank's web platform (zero.webappsecurity.com).
-- **Test Scenario: **A complete flow for executing a banking transaction, including:
+- **Test Scenario:** A complete flow for executing a banking transaction, including:
 	- Logging into the system.
+  	- Validate image and text visibility on the homepage.
 	- Navigating through user account features.
 	- Initiating and confirming a transaction.
 	- Verifying transaction status and balance update.
