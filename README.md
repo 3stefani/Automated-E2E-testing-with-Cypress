@@ -15,6 +15,5 @@ This repository contains an automated End-to-End (E2E) testing project for Zero 
 - **Dependencies:** Node.js for environment setup, with package management through NPM.
 - **Code Editor:** Developed in VSCode (Visual Studio Code).
 
-###Installation and Setup:
 
 
